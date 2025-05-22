@@ -2,7 +2,7 @@
 <div align="center" ><img alt="bem-vindo/a ao meu perfil!" width="100%" src="https://github.com/Carol42/Carol42/blob/main/assets/header2.png"></div>
 
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=500&lines=Eu+sou+a+Caroline;Ela/dela;Estudante+de+Eng.+de+Computação;Desenvolvedora+Frontend+brasileira;Gateira+:3;Amo+Power+Metal+%3C3;function+findQuestion(42)" alt="Meu nome é Caroline, pronomes: ela/dela, Estudante de Engenharia de Computação, Desenvolvedora Frontend, amo gatos, amo Power Metal"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=500&lines=Eu+sou+a+Caroline;Ela/dela;Estudante+de+Eng.+de+Computação;Desenvolvedora+Frontend+brasileira;Gateira+:3;Amo+Power+Metal+%3C3;function+findQuestion(42)" alt="Meu nome é Ana Kestering, Estudante de Engenharia de Computação."></a>
 </div>
 
 <a href="https://github.com/Carol42/Carol42/actions/workflows/lastfm.yml"><img src="https://github.com/Carol42/Carol42/actions/workflows/lastfm.yml/badge.svg" alt="lastfm-to-markdown workflow status" ></a>
